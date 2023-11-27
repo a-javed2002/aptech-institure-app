@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434614802981",
+    "project_id": "aptech-institute-f8c48",
+    "storage_bucket": "aptech-institute-f8c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434614802981:android:c170e1744c836b7922bdcc",
+        "android_client_info": {
+          "package_name": "com.example.aptech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-uiAeVxufNwiOJ1lp--OME0wGy0ehrH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
